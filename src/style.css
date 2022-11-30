@@ -1,26 +1,12 @@
-/* styles go here */
-.field {
+.fieldset {
   margin-bottom: 20px;
 }
 
-.input {
-  margin-bottom: 10px;
-}
-
-/* .form-field {
-  display: inline-block;
-} */
-
-.add-info {
+.field {
   display: block;
   margin-bottom: 10px;
 }
 
-.form-field {
-  display: block;
-  margin-bottom: 10px;
-}
-
-.cats {
-  margin-bottom: 4px;
+.field:last-child {
+  margin: 0;
 }
